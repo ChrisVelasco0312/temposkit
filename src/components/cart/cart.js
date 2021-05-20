@@ -139,6 +139,7 @@ const styles = /* css */ `
   user-select:none;
   display: grid;
   align-items: center;
+  width: 70px;
 }
 .${tag}__image {
   transform: scale(1.3);
